@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/talha147-h/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/talha147-h/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/talha147-h/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/talha147-h/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
