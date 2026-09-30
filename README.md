@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/talha147-h/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/talha147-h/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/talha147-h/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/talha147-h/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/talha147-h/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
