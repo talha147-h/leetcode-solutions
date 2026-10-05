@@ -8,10 +8,7 @@ public:
         long long ans=0;
 
         if(len>=low)ans=1;
-
-        ans+=func(len+zero,dp,low,high,zero,one);
-        ans+=func(len+one,dp,low,high,zero,one);
-
+       ans+= func(len+zero,dp,low,high,zero,one)+func(len+one,dp,low,high,zero,one);
         return dp[len]=ans%MOD;
     }
 
