@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/talha147-h/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/talha147-h/leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/talha147-h/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sorting
 |  |
 | ------- |
