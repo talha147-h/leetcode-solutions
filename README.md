@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0018-4sum) |
 | [0636-exclusive-time-of-functions](https://github.com/talha147-h/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0819-most-common-word](https://github.com/talha147-h/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/talha147-h/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1537-get-the-maximum-score](https://github.com/talha147-h/leetcode-solutions/tree/master/1537-get-the-maximum-score) |
 | [1539-kth-missing-positive-number](https://github.com/talha147-h/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/talha147-h/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0819-most-common-word](https://github.com/talha147-h/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/talha147-h/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/talha147-h/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/talha147-h/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/talha147-h/leetcode-solutions/tree/master/0819-most-common-word) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sorting
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3649-number-of-perfect-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/3649-number-of-perfect-pairs) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/talha147-h/leetcode-solutions/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
