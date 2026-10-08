@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/talha147-h/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/talha147-h/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0713-subarray-product-less-than-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/talha147-h/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/talha147-h/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/talha147-h/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0636-exclusive-time-of-functions](https://github.com/talha147-h/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0735-asteroid-collision](https://github.com/talha147-h/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/talha147-h/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/talha147-h/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/talha147-h/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/talha147-h/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/talha147-h/leetcode-solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
