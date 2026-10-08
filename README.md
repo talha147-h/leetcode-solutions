@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0018-4sum) |
+| [0128-longest-consecutive-sequence](https://github.com/talha147-h/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/talha147-h/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0819-most-common-word](https://github.com/talha147-h/leetcode-solutions/tree/master/0819-most-common-word) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/talha147-h/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/talha147-h/leetcode-solutions/tree/master/0819-most-common-word) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/talha147-h/leetcode-solutions/tree/master/0819-most-common-word) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/talha147-h/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
