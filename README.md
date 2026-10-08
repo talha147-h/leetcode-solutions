@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0018-4sum) |
 | [0128-longest-consecutive-sequence](https://github.com/talha147-h/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/talha147-h/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/talha147-h/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/talha147-h/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/talha147-h/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/talha147-h/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/talha147-h/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/talha147-h/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/talha147-h/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/talha147-h/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/talha147-h/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
@@ -202,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/talha147-h/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/talha147-h/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/talha147-h/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/talha147-h/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
