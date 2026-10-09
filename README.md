@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/talha147-h/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/talha147-h/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/talha147-h/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/talha147-h/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/talha147-h/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/talha147-h/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/talha147-h/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/talha147-h/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/talha147-h/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/talha147-h/leetcode-solutions/tree/master/0735-asteroid-collision) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/talha147-h/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
