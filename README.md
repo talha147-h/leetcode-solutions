@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/talha147-h/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/talha147-h/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0198-house-robber](https://github.com/talha147-h/leetcode-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/talha147-h/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/talha147-h/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/talha147-h/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/talha147-h/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/talha147-h/leetcode-solutions/tree/master/0198-house-robber) |
 | [1537-get-the-maximum-score](https://github.com/talha147-h/leetcode-solutions/tree/master/1537-get-the-maximum-score) |
 | [2439-minimize-maximum-of-array](https://github.com/talha147-h/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2466-count-ways-to-build-good-strings](https://github.com/talha147-h/leetcode-solutions/tree/master/2466-count-ways-to-build-good-strings) |
