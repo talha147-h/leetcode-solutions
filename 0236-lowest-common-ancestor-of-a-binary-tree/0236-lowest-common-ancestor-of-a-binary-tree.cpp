@@ -9,18 +9,18 @@
  */
 class Solution {
 public:
-    TreeNode* lcafn(TreeNode* node, TreeNode* p, TreeNode* q){
-    if(!node)return NULL;
-    if(node==p)return node;
-    if(node==q)return node;
-    TreeNode* leftfound=lcafn(node->left,p,q);
-    TreeNode* rightfound=lcafn(node->right,p,q);
-    if(leftfound && rightfound)return node;
-    if(leftfound)return leftfound;
-    if(rightfound)return rightfound;
-    return nullptr;
-    }
+      TreeNode* solve(TreeNode* node, TreeNode* p, TreeNode* q) {
+        if(node==NULL )return NULL;
+        if(node==p)return p;
+        if(node==q)return q;
+        TreeNode* find1=solve(node->left,p,q);
+        TreeNode* find2=solve(node->right,p,q);
+        if(find1 && find2)return node;
+        if(find1)return find1;
+        if(find2) return find2;
+        return NULL;
+      }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        return lcafn(root,p,q);
+        return solve(root,p,q);
     }
 };
