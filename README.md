@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/talha147-h/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/talha147-h/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/talha147-h/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/talha147-h/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/talha147-h/leetcode-solutions/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/talha147-h/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/talha147-h/leetcode-solutions/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/talha147-h/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/talha147-h/leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/talha147-h/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/talha147-h/leetcode-solutions/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/talha147-h/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/talha147-h/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/talha147-h/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
