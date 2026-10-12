@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/talha147-h/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1537-get-the-maximum-score](https://github.com/talha147-h/leetcode-solutions/tree/master/1537-get-the-maximum-score) |
 | [1539-kth-missing-positive-number](https://github.com/talha147-h/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [2364-count-number-of-bad-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2439-minimize-maximum-of-array](https://github.com/talha147-h/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/talha147-h/leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/talha147-h/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/talha147-h/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2364-count-number-of-bad-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sorting
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1041-robot-bounded-in-circle](https://github.com/talha147-h/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
+| [2364-count-number-of-bad-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/talha147-h/leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3649-number-of-perfect-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/3649-number-of-perfect-pairs) |
 ## Counting
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/talha147-h/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/talha147-h/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/talha147-h/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [2364-count-number-of-bad-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 ## Union-Find
 |  |
 | ------- |
