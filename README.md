@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2439-minimize-maximum-of-array](https://github.com/talha147-h/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/talha147-h/leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3649-number-of-perfect-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/3649-number-of-perfect-pairs) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/talha147-h/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/talha147-h/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/talha147-h/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/talha147-h/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/talha147-h/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Graph Theory
 |  |
 | ------- |
