@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/talha147-h/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/talha147-h/leetcode-solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3649-number-of-perfect-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/talha147-h/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/talha147-h/leetcode-solutions/tree/master/1537-get-the-maximum-score) |
 | [2439-minimize-maximum-of-array](https://github.com/talha147-h/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2466-count-ways-to-build-good-strings](https://github.com/talha147-h/leetcode-solutions/tree/master/2466-count-ways-to-build-good-strings) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/talha147-h/leetcode-solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/talha147-h/leetcode-solutions/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/talha147-h/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/talha147-h/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/talha147-h/leetcode-solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
