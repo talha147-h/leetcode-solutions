@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/talha147-h/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/talha147-h/leetcode-solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/talha147-h/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3649-number-of-perfect-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/talha147-h/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/talha147-h/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sorting
 |  |
@@ -398,4 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/talha147-h/leetcode-solutions/tree/master/0044-wildcard-matching) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/talha147-h/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/talha147-h/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
