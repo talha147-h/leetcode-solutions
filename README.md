@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/talha147-h/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/talha147-h/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/talha147-h/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/talha147-h/leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/talha147-h/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/talha147-h/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/talha147-h/leetcode-solutions/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/talha147-h/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/talha147-h/leetcode-solutions/tree/master/0198-house-robber) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/talha147-h/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/talha147-h/leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/talha147-h/leetcode-solutions/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/talha147-h/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -391,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/talha147-h/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/talha147-h/leetcode-solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
