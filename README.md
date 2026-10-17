@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/talha147-h/leetcode-solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/talha147-h/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/talha147-h/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/talha147-h/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3649-number-of-perfect-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/talha147-h/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/talha147-h/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/talha147-h/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/talha147-h/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sorting
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/talha147-h/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/talha147-h/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/talha147-h/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3649-number-of-perfect-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/talha147-h/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
