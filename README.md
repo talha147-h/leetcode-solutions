@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/talha147-h/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/talha147-h/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1043-partition-array-for-maximum-sum](https://github.com/talha147-h/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/talha147-h/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/talha147-h/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1537-get-the-maximum-score](https://github.com/talha147-h/leetcode-solutions/tree/master/1537-get-the-maximum-score) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/talha147-h/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/talha147-h/leetcode-solutions/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/talha147-h/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1043-partition-array-for-maximum-sum](https://github.com/talha147-h/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/talha147-h/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/talha147-h/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1537-get-the-maximum-score](https://github.com/talha147-h/leetcode-solutions/tree/master/1537-get-the-maximum-score) |
