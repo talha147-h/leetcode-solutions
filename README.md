@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/talha147-h/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/talha147-h/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/talha147-h/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/talha147-h/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/talha147-h/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/talha147-h/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/talha147-h/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/talha147-h/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/talha147-h/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/talha147-h/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Prefix Sum
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/talha147-h/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/talha147-h/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2439-minimize-maximum-of-array](https://github.com/talha147-h/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 ## String
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/talha147-h/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/talha147-h/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1248-count-number-of-nice-subarrays](https://github.com/talha147-h/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/talha147-h/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1041-robot-bounded-in-circle](https://github.com/talha147-h/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
+| [1248-count-number-of-nice-subarrays](https://github.com/talha147-h/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/talha147-h/leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3649-number-of-perfect-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/3649-number-of-perfect-pairs) |
