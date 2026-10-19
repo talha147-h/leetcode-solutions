@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/talha147-h/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [1041-robot-bounded-in-circle](https://github.com/talha147-h/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/talha147-h/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
@@ -452,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/talha147-h/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/talha147-h/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/talha147-h/leetcode-solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
