@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/talha147-h/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/talha147-h/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/talha147-h/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/talha147-h/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1537-get-the-maximum-score](https://github.com/talha147-h/leetcode-solutions/tree/master/1537-get-the-maximum-score) |
 | [1539-kth-missing-positive-number](https://github.com/talha147-h/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/talha147-h/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/talha147-h/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/talha147-h/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/talha147-h/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/talha147-h/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/talha147-h/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/talha147-h/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/talha147-h/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/talha147-h/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [3046-split-the-array](https://github.com/talha147-h/leetcode-solutions/tree/master/3046-split-the-array) |
 ## Union-Find
