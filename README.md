@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/talha147-h/leetcode-solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/talha147-h/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/talha147-h/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3046-split-the-array](https://github.com/talha147-h/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/talha147-h/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3649-number-of-perfect-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/talha147-h/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/talha147-h/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/talha147-h/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3046-split-the-array](https://github.com/talha147-h/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/talha147-h/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sorting
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/talha147-h/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/talha147-h/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2364-count-number-of-bad-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
+| [3046-split-the-array](https://github.com/talha147-h/leetcode-solutions/tree/master/3046-split-the-array) |
 ## Union-Find
 |  |
 | ------- |
