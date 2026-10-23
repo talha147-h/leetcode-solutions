@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/talha147-h/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/talha147-h/leetcode-solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2768-number-of-black-blocks](https://github.com/talha147-h/leetcode-solutions/tree/master/2768-number-of-black-blocks) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/talha147-h/leetcode-solutions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/talha147-h/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/talha147-h/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [3649-number-of-perfect-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/3649-number-of-perfect-pairs) |
 ## Greedy
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/talha147-h/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/talha147-h/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/talha147-h/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3649-number-of-perfect-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/talha147-h/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/talha147-h/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/talha147-h/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/talha147-h/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/talha147-h/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Quickselect
 |  |
 | ------- |
@@ -358,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/talha147-h/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/talha147-h/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -395,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/talha147-h/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/talha147-h/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/talha147-h/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
+| [2503-maximum-number-of-points-from-grid-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/talha147-h/leetcode-solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Bit Manipulation
 |  |
