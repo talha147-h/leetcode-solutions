@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/talha147-h/leetcode-solutions/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/talha147-h/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/talha147-h/leetcode-solutions/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/talha147-h/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/talha147-h/leetcode-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/talha147-h/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/talha147-h/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/talha147-h/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/talha147-h/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/talha147-h/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/talha147-h/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/talha147-h/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0319-bulb-switcher](https://github.com/talha147-h/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [1041-robot-bounded-in-circle](https://github.com/talha147-h/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/talha147-h/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
