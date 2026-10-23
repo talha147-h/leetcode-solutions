@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/talha147-h/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/talha147-h/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/talha147-h/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1338-reduce-array-size-to-the-half](https://github.com/talha147-h/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/talha147-h/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/talha147-h/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/talha147-h/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/talha147-h/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/talha147-h/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/talha147-h/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1338-reduce-array-size-to-the-half](https://github.com/talha147-h/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/talha147-h/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1537-get-the-maximum-score](https://github.com/talha147-h/leetcode-solutions/tree/master/1537-get-the-maximum-score) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/talha147-h/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/talha147-h/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/talha147-h/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/talha147-h/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1338-reduce-array-size-to-the-half](https://github.com/talha147-h/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/talha147-h/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/talha147-h/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/talha147-h/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/talha147-h/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/talha147-h/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1338-reduce-array-size-to-the-half](https://github.com/talha147-h/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/talha147-h/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/talha147-h/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/talha147-h/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/talha147-h/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/talha147-h/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1338-reduce-array-size-to-the-half](https://github.com/talha147-h/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/talha147-h/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/talha147-h/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/talha147-h/leetcode-solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
