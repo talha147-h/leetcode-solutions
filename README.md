@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/talha147-h/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/talha147-h/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/talha147-h/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/talha147-h/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/talha147-h/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/talha147-h/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/talha147-h/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/talha147-h/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/talha147-h/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/talha147-h/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/talha147-h/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/talha147-h/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Binary Lifting
 |  |
@@ -527,4 +529,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/talha147-h/leetcode-solutions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/talha147-h/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/talha147-h/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
