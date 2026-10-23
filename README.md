@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/talha147-h/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/talha147-h/leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/talha147-h/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/talha147-h/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/talha147-h/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/talha147-h/leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/talha147-h/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/talha147-h/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/talha147-h/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/talha147-h/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/talha147-h/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/talha147-h/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -533,8 +535,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/talha147-h/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/talha147-h/leetcode-solutions/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
