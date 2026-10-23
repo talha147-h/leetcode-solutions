@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/talha147-h/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/talha147-h/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/talha147-h/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Binary Lifting
 |  |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/talha147-h/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/talha147-h/leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## Binary Indexed Tree
 |  |
