@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/talha147-h/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/talha147-h/leetcode-solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2768-number-of-black-blocks](https://github.com/talha147-h/leetcode-solutions/tree/master/2768-number-of-black-blocks) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/talha147-h/leetcode-solutions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/talha147-h/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/talha147-h/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3046-split-the-array](https://github.com/talha147-h/leetcode-solutions/tree/master/3046-split-the-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/talha147-h/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/talha147-h/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2439-minimize-maximum-of-array](https://github.com/talha147-h/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/talha147-h/leetcode-solutions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Sliding Window
 |  |
 | ------- |
@@ -513,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/talha147-h/leetcode-solutions/tree/master/0397-integer-replacement) |
+## Ordered Set
+|  |
+| ------- |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/talha147-h/leetcode-solutions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 <!---LeetCode Topics End-->
