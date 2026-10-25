@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/talha147-h/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/talha147-h/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/talha147-h/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/talha147-h/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/talha147-h/leetcode-solutions/tree/master/0068-text-justification) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/talha147-h/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/talha147-h/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/talha147-h/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/talha147-h/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/talha147-h/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/talha147-h/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0018-4sum) |
@@ -571,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/talha147-h/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
