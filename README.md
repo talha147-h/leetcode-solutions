@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/talha147-h/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/talha147-h/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/talha147-h/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/talha147-h/leetcode-solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/talha147-h/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/talha147-h/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/talha147-h/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/talha147-h/leetcode-solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/talha147-h/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
