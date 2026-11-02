@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/talha147-h/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/talha147-h/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/talha147-h/leetcode-solutions/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/talha147-h/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/talha147-h/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/talha147-h/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/talha147-h/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/talha147-h/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/talha147-h/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/talha147-h/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/talha147-h/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/talha147-h/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1537-get-the-maximum-score](https://github.com/talha147-h/leetcode-solutions/tree/master/1537-get-the-maximum-score) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/talha147-h/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/talha147-h/leetcode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/talha147-h/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/talha147-h/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/talha147-h/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/talha147-h/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/talha147-h/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/talha147-h/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/talha147-h/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -619,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/talha147-h/leetcode-solutions/tree/master/0139-word-break) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/talha147-h/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
